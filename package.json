@@ -1,0 +1,25 @@
+{
+  "name": "HAL-Navigator-animations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshTDesign/HAL-Navigator-animations.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshTDesign/HAL-Navigator-animations/issues"
+  },
+  "homepage": "https://github.com/JoshTDesign/HAL-Navigator-animations#readme",
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "express": "^4.17.1"
+  }
+}

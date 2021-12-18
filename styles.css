@@ -1,0 +1,17 @@
+#switchContainer {
+    background-color: pink;
+    height: 130px;
+    width: 250px;
+    margin: 100px auto 0px auto;
+    border-radius: 75px;
+    padding: 10px;
+    position: relative;
+}
+
+#switchSlider {
+    width: 130px;
+    height: 130px;
+    background-color: white;
+    border-radius: 65px;
+    position: absolute;
+}
